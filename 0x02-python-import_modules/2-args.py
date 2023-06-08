@@ -1,8 +1,8 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 
 """ program that prints the number and list of its argument """
 
-if ___name__ == "__main__":
+if __name__ == "__main__":
     import sys
 
     count = len(sys.argv) - 1
